@@ -1,8 +1,6 @@
-# UNDER CONSTURCTION PROBABLY DO NOT USE
 facebook.com
 fonts.googleapis.com
 instagram.com
-googletagmanager.com
 google.com
 youtube.com
 twitter.com
@@ -27,7 +25,6 @@ tiktok.com
 www.facebook.com
 www.fonts.googleapis.com
 www.instagram.com
-www.googletagmanager.com
 www.google.com
 www.youtube.com
 www.twitter.com
@@ -56,7 +53,6 @@ twitter.com
 instagram.com
 linkedin.com
 microsoft.com
-googletagmanager.com
 apple.com
 wikipedia.org
 github.com
@@ -156,7 +152,6 @@ www.twitter.com
 www.instagram.com
 www.linkedin.com
 www.microsoft.com
-www.googletagmanager.com
 www.apple.com
 www.wikipedia.org
 www.github.com
@@ -272,7 +267,6 @@ azure.com
 googlevideo.com
 fbcdn.net
 amazon.com
-googletagmanager.com
 windowsupdate.com
 www.google.com
 www.microsoft.com
@@ -297,7 +291,6 @@ www.azure.com
 www.googlevideo.com
 www.fbcdn.net
 www.amazon.com
-www.googletagmanager.com
 www.windowsupdate.com
 google.com
 microsoft.com
