@@ -1,8 +1,8 @@
 # domain-whitelist
 
-A conservative list of web domains that should be always be allowed.
+An eclectically personal list of web domains that should always be allowed.
 
-This list is not meant to be a comprehensive list for anyone who needs that. Rather, the domains here are aimed to cover the most common web traffic domains who are extremely high confidence to be safe (e.g. google.com). So the primary use-case for this list is to prevent any really bad FP errors occuring in an upstream blocklist from causing major web browsing problems.
+This list is not meant to be a comprehensive list for anyone who needs that. Rather, the domains here are aimed to cover the most common web traffic domains who are extremely high confidence to be safe (e.g. google.com), with additions included through my own personal internet use. So the primary use-case for this list is to prevent any really bad FP errors occuring in an upstream blocklist from causing major internet problems.
 
 Update semi-monthly.
 
