@@ -15,7 +15,6 @@ cdnjs.cloudflare.com
 drive.google.com
 github.com
 wordpress.org
-x.com
 support.google.com
 docs.google.com
 pinterest.com
@@ -27,7 +26,6 @@ www.fonts.googleapis.com
 www.instagram.com
 www.google.com
 www.youtube.com
-www.twitter.com
 www.linkedin.com	
 www.fonts.gstatic.com
 www.gmpg.org
@@ -39,7 +37,6 @@ www.cdnjs.cloudflare.com
 www.drive.google.com
 www.github.com
 www.wordpress.org
-www.x.com
 www.support.google.com
 www.docs.google.com
 www.pinterest.com
@@ -49,7 +46,6 @@ www.tiktok.com
 google.com
 facebook.com
 youtube.com
-twitter.com
 instagram.com
 linkedin.com
 microsoft.com
