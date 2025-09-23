@@ -328,3 +328,5 @@ www.update.googleapis.com
 www.edge.skype.com
 www.digicert.com
 www.config.edge.skype.com
+
+identity.doordash.com
