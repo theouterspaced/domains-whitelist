@@ -3,7 +3,6 @@ fonts.googleapis.com
 instagram.com
 google.com
 youtube.com
-twitter.com
 linkedin.com	
 fonts.gstatic.com
 gmpg.org
@@ -140,7 +139,6 @@ shopify.com
 www.google.com
 www.facebook.com
 www.youtube.com
-www.twitter.com
 www.instagram.com
 www.linkedin.com
 www.microsoft.com
@@ -247,7 +245,6 @@ cloudflare.com
 akamai.net
 instagram.com
 gstatic.com
-twitter.com
 ax-msedge.net
 office.com
 akamaiedge.net
@@ -271,7 +268,6 @@ www.cloudflare.com
 www.akamai.net
 www.instagram.com
 www.gstatic.com
-www.twitter.com
 www.ax-msedge.net
 www.office.com
 www.akamaiedge.net
