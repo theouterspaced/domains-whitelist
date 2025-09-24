@@ -331,3 +331,4 @@ www.config.edge.skype.com
 
 identity.doordash.com
 itunes.apple.com
+publicdnsserver.com
