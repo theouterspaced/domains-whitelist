@@ -4,11 +4,14 @@ Some internet domain allow lists for when general web usage is expected.
 
 Update semi-monthly.
 
-A list of web domains that should always be allowed.
-**allow.txt:** https://raw.githubusercontent.com/theouterspaced/domain-whitelist/main/allow.txt
 
-An eclectically personal list of web domains that should probably always be allowed.
-**eclectic:** https://raw.githubusercontent.com/theouterspaced/domain-whitelist/main/eclectic.txt
+#### Download:
+
+**allow.txt:** A list of web domains that should always be allowed.
+* https://raw.githubusercontent.com/theouterspaced/domain-whitelist/main/allow.txt
+  
+**eclectic.txt:** An eclectically personal list of web domains that should probably always be allowed.
+* https://raw.githubusercontent.com/theouterspaced/domain-whitelist/main/eclectic.txt
 
 *Some data sources...*
 | | |
