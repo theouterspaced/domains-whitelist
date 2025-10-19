@@ -16,7 +16,7 @@ Update semi-monthly.
 
 ~
 
-* *Some data sources...*
+*Some data sources...*
 
 | | |
 |------|-------|
