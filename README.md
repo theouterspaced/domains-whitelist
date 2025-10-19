@@ -1,18 +1,24 @@
 ## Domains Whitelist
 
-An eclectically personal list of web domains that should always be allowed.
+Some internet domain allow lists for when general web usage is expected.
 
 Update semi-monthly.
 
-**Download:** https://raw.githubusercontent.com/theouterspaced/domain-whitelist/main/allow.txt
+A list of web domains that should always be allowed.
+**allow.txt:** https://raw.githubusercontent.com/theouterspaced/domain-whitelist/main/allow.txt
+
+An eclectically personal list of web domains that should probably always be allowed.
+**eclectic:** https://raw.githubusercontent.com/theouterspaced/domain-whitelist/main/eclectic.txt
 
 *Some data sources...*
 | | |
 |------|-------|
 | majestic.com | https://downloads.majestic.com/majestic_million.csv |
 | tranco-list.eu | https://tranco-list.eu/top-1m.csv.zip |
-| umbrella.cisco.com | https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip |
 | domcop.com | https://www.domcop.com/top-10-million-domains |
+| w3.ataiva.com | https://w3.ataiva.com/sitemap |
+| umbrella.cisco.com | https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip |
+| quad9.net | https://github.com/Quad9DNS/quad9-domains-top500 |
 | radar.cloudflare.com | https://radar.cloudflare.com/domains |
 
 ~
