@@ -4,7 +4,7 @@ Some internet domain allow lists for when general web usage is expected.
 
 Update semi-monthly.
 
-~
+#### Downloads:
 
 **allow.txt:** A list of web domains that should always be allowed.
   * https://raw.githubusercontent.com/theouterspaced/domain-whitelist/main/allow.txt
@@ -17,6 +17,7 @@ Update semi-monthly.
 ~
 
 * *Some data sources...*
+
 | | |
 |------|-------|
 | majestic.com | https://downloads.majestic.com/majestic_million.csv |
