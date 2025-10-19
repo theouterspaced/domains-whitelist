@@ -6,12 +6,10 @@ Update semi-monthly.
 
 #### Downloads:
 
-~
-**allow.txt:** A list of web domains that should always be allowed.
+**allow -** A list of web domains that should always be allowed.
   * https://raw.githubusercontent.com/theouterspaced/domain-whitelist/main/allow.txt
 
-~ 
-**eclectic.txt:** An eclectically personal list of web domains that should probably always be allowed.
+**eclectic -** An eclectically personal list of web domains that should probably always be allowed.
   * https://raw.githubusercontent.com/theouterspaced/domain-whitelist/main/eclectic.txt
 
 ~
