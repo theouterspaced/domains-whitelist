@@ -6,7 +6,7 @@ Update semi-monthly.
 
 #### Downloads:
 
-**allow.txt:** A list of web domains that should always be allowed.
+**allow.txt:** A list of web domains that should always be allowed. Based on the most statistically popular and common websites. 
   * https://raw.githubusercontent.com/theouterspaced/domain-whitelist/main/allow.txt
 
 **eclectic.txt:** An eclectically personal list of web domains that should probably always be allowed.
