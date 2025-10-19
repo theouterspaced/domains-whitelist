@@ -281,7 +281,6 @@ www.windowsupdate.com
 google.com
 microsoft.com
 data.microsoft.com
-events.data.microsoft.com
 www.google.com
 office.com
 live.com
@@ -297,7 +296,6 @@ office.net
 officeapps.live.com
 skype.com
 mp.microsoft.com
-mobile.events.data.microsoft.com
 bing.com
 update.googleapis.com
 edge.skype.com
@@ -306,7 +304,6 @@ config.edge.skype.com
 www.google.com
 www.microsoft.com
 www.data.microsoft.com
-www.events.data.microsoft.com
 www.www.google.com
 www.office.com
 www.live.com
@@ -322,7 +319,6 @@ www.office.net
 www.officeapps.live.com
 www.skype.com
 www.mp.microsoft.com
-www.mobile.events.data.microsoft.com
 www.bing.com
 www.update.googleapis.com
 www.edge.skype.com
