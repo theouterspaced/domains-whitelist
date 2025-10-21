@@ -19,6 +19,7 @@ dl.red.flag.domains
 dlcdnets.asus.com
 docs.google.com
 earthquake.usgs.gov
+euro.v29.distributed.net
 external-preview.redd.it
 feodotracker.abuse.ch
 filter.futa.gg
