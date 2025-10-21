@@ -64,6 +64,7 @@ updates.cdn-apple.com
 uptime.signal.org
 us.v29.distributed.net
 user-images.githubusercontent.com
+vpn-api.proton.me
 wWw.gmktec.com
 www.amazon.com
 www.giphy.com
