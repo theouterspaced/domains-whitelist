@@ -51,6 +51,7 @@ push.apple.com
 radar.weather.gov
 raw.githubusercontent.com
 release-assets.githubusercontent.com
+res.cloudinary.com
 routerfeedback.asus.com
 servers.opennic.org
 sffirecu.org
