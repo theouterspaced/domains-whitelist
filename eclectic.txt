@@ -49,6 +49,7 @@ private-user-images.githubusercontent.com
 publicdnsserver.com
 push.apple.com
 radar.weather.gov
+ransomware.live
 raw.githubusercontent.com
 release-assets.githubusercontent.com
 res.cloudinary.com
