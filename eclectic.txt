@@ -17,12 +17,14 @@ chat.signal.org
 check.torporject.org
 d3ag4hukkh62yn.cloudfront.net
 discourse.pi-hole.net
+displaycatalog.mp.microsoft.com
 dl.red.flag.domains
 dlcdnets.asus.com
 docs.google.com
 earthquake.usgs.gov
 euro.v29.distributed.net
 external-preview.redd.it
+fastly.jsdelivr.net
 feodotracker.abuse.ch
 filter.futa.gg
 firebaseinstallations.googleapis.com
