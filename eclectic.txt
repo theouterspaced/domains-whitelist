@@ -46,6 +46,7 @@ hosts.tweedge.net
 icloud.com
 imasdk.googleapis.com
 itunes.apple.com
+itunes.apple.com.edgekey.net
 itunes.com
 kevinmarx.org
 maps.google.com
