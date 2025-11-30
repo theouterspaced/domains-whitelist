@@ -6,7 +6,9 @@ amp-api-updates.apps.apple.com
 anyi.kevinmarx.org
 api.invidious.io
 api.mapbox.com
+apple-dns.net
 apple.com
+apple.com.edgekey.net
 apps.apple.com
 archive.org
 avatars.githubusercontent.com
@@ -32,6 +34,7 @@ firebasestorage.googleapis.com
 formulae.brew.sh
 fpinit.itunes.apple.com
 gateway.apple.com
+gateway.fe2.apple-dns.net
 gateway.icloud.com
 gdmf.apple.com
 giphy.com
