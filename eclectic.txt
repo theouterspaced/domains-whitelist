@@ -1,3 +1,7 @@
+# November 2025
+# An eclectically personal list of web domains that should 'probably' always be allowed.
+# github.com/theouterspaced/domain-whitelist
+##
 0xerr0r.github.io
 ac88393aca5853df7.dualstack.awsglobalaccelerator.com
 accounts.youtube.com
