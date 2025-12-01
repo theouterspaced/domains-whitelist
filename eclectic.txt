@@ -49,6 +49,7 @@ gsp-ssl.ls.apple.com
 hosts.tweedge.net
 icloud.com
 imasdk.googleapis.com
+inv.nadeko.net
 itunes.apple.com
 itunes.apple.com.edgekey.net
 itunes.com
