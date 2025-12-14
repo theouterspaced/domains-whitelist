@@ -1,4 +1,4 @@
-# December 2025
+# December 2025 
 # An eclectically personal list of web domains that should 'probably' always be allowed.
 # github.com/theouterspaced/domain-whitelist
 ##
