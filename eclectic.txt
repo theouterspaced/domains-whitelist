@@ -1,4 +1,4 @@
-# November 2025
+# December 2025
 # An eclectically personal list of web domains that should 'probably' always be allowed.
 # github.com/theouterspaced/domain-whitelist
 ##
@@ -83,6 +83,7 @@ thepiratebay.org
 time.nist.gov
 torproject.org
 updates.cdn-apple.com
+updates.g.aaplimg.com
 uptime.signal.org
 us.v29.distributed.net
 user-images.githubusercontent.com
