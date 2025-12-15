@@ -14,6 +14,7 @@ apple-dns.net
 apple.com
 apple.com.edgekey.net
 apps.apple.com
+archive.is
 archive.org
 avatars.githubusercontent.com
 bag.itunes.apple.com
