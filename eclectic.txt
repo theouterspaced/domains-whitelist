@@ -47,6 +47,7 @@ giphy.com
 gnome.extensions.org
 gs.apple.com
 gsp-ssl.ls.apple.com
+hosts-tweedge-net.b-cdn.net
 hosts.tweedge.net
 icloud.com
 imasdk.googleapis.com
