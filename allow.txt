@@ -6,6 +6,7 @@ accounts.google.com
 adobe.com
 airbnb.com
 ajax.googleapis.com
+aka.ms
 akamai.net
 akamaiedge.net
 amazon.co.uk
