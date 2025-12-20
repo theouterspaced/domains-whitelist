@@ -5,6 +5,7 @@
 0xerr0r.github.io
 ac88393aca5853df7.dualstack.awsglobalaccelerator.com
 accounts.youtube.com
+aka.ms
 amp-api-edge.apps.apple.com
 amp-api-updates.apps.apple.com
 anyi.kevinmarx.org
