@@ -97,7 +97,6 @@ www.apple.com
 www.giphy.com
 www.icloud.com
 www.itunes.com
-www.kevinmarx.org
 www.threatweb.com
 www.torproject.org
 www3.l.google.com
