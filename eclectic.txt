@@ -1,4 +1,4 @@
-# December 2025
+# January 2026
 # An eclectically personal list of web domains that should 'probably' always be allowed.
 # github.com/theouterspaced/domain-whitelist
 ##
@@ -75,6 +75,7 @@ raw.githubusercontent.com
 release-assets.githubusercontent.com
 res.cloudinary.com
 routerfeedback.asus.com
+s.youtube.com
 servers.opennic.org
 sffirecu.org
 speedysub.itunes.apple.com
