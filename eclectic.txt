@@ -50,6 +50,7 @@ gs.apple.com
 gsp-ssl.ls.apple.com
 hosts-tweedge-net.b-cdn.net
 hosts.tweedge.net
+hunt.io
 icloud.com
 imasdk.googleapis.com
 inv.nadeko.net
