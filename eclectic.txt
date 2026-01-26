@@ -63,6 +63,7 @@ media.githubusercontent.com
 my.microsoftpersonalcontent.com
 node.windy.com
 nw-dlcdnet.asus.com
+onedrive.live.com
 pd.itunes.apple.com
 phishing.army
 play.google.com
