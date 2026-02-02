@@ -1,4 +1,4 @@
-# January 2026
+# February 2026
 # An eclectically personal list of web domains that should 'probably' always be allowed.
 # github.com/theouterspaced/domain-whitelist
 ##
@@ -88,6 +88,7 @@ steamcommunity.com
 thepiratebay.org
 time.nist.gov
 torproject.org
+tuf-repo-cdn.sigstore.dev
 updates.cdn-apple.com
 updates.g.aaplimg.com
 uptime.signal.org
