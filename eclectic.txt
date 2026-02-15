@@ -17,8 +17,6 @@ apple.com.edgekey.net
 apps.apple.com
 archive.is
 archive.org
-archive.ph
-archive.today
 avatars.githubusercontent.com
 bag.itunes.apple.com
 brew.sh
