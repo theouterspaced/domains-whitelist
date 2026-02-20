@@ -30,6 +30,7 @@ chat.signal.org
 chat.z.ai
 check.torporject.org
 d3ag4hukkh62yn.cloudfront.net
+dangerous.domains
 discourse.pi-hole.net
 displaycatalog.mp.microsoft.com
 dl.red.flag.domains
