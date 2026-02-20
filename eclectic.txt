@@ -15,6 +15,7 @@ appldnld.apple.com
 apple-dns.net
 apple.com
 apple.com.edgekey.net
+appleid.apple.com
 apps.apple.com
 archive.is
 archive.org
@@ -96,6 +97,7 @@ steamcommunity.com
 swcdn.apple.com
 swcdnlocator.apple.com
 swdownload.apple.com
+swquery.apple.com
 swscan.apple.com
 thepiratebay.org
 time.nist.gov
