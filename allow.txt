@@ -1,4 +1,4 @@
-# November 2025
+# February 2026
 # A list of web domains that should 'always' be allowed. Based on the most statistically popular and common websites.
 # github.com/theouterspaced/domain-whitelist
 ##
@@ -98,10 +98,12 @@ httpd.apache.org
 i.imgur.com
 i.ytimg.com
 ibm.com
+icloud.com
 imdb.com
 img.youtube.com
 instagram.com
 itunes.apple.com
+itunes.com
 kickstarter.com
 launchpad.net
 link.springer.com
@@ -291,8 +293,10 @@ www.gstatic.com
 www.gtld-servers.net
 www.hbr.org
 www.ibm.com
+www.icloud.com
 www.imdb.com
 www.instagram.com
+www.itunes.com
 www.kickstarter.com
 www.launchpad.net
 www.linkedin.com
