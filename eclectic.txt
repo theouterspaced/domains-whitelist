@@ -18,8 +18,6 @@ appleid.apple.com
 apps.apple.com
 archive.is
 archive.org
-archive.ph
-archive.today
 avatars.githubusercontent.com
 badmojr.github.io
 bag.itunes.apple.com
