@@ -42,6 +42,7 @@ disq.us
 dl.red.flag.domains
 dlcdnets.asus.com
 dns.pl
+dnsisbeautiful.com
 docs.google.com
 domains-monitor.com
 drp.su
@@ -98,6 +99,7 @@ phishing.army
 play.google.com
 play.googleapis.com
 private-user-images.githubusercontent.com
+public-dns.info
 publicdnsserver.com
 push.apple.com
 radar.weather.gov
