@@ -22,6 +22,7 @@ avatars.githubusercontent.com
 badmojr.github.io
 bag.itunes.apple.com
 beta.apple.com
+bitbucket.org
 blackuniverse.eu
 brew.sh
 cas-bridge.xethub.hf.co
