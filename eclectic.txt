@@ -1,4 +1,4 @@
-# February 2026
+# March 2026
 # An eclectically personal list of web domains that should 'probably' always be allowed.
 # github.com/theouterspaced/domain-whitelist
 ##
@@ -35,8 +35,10 @@ chat.z.ai
 check.torporject.org
 codeberg.org
 content.sffirecu.org
+d10s6lvvpakmgz.cloudfront.net
 d3ag4hukkh62yn.cloudfront.net
 dangerous.domains
+digital.alight.com
 discourse.pi-hole.net
 displaycatalog.mp.microsoft.com
 disq.us
