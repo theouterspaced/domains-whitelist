@@ -35,10 +35,8 @@ chat.z.ai
 check.torporject.org
 codeberg.org
 content.sffirecu.org
-d10s6lvvpakmgz.cloudfront.net
 d3ag4hukkh62yn.cloudfront.net
 dangerous.domains
-digital.alight.com
 discourse.pi-hole.net
 displaycatalog.mp.microsoft.com
 disq.us
