@@ -11,6 +11,7 @@ amp-api-updates.apps.apple.com
 anyi.kevinmarx.org
 api.invidious.io
 api.mapbox.com
+api.z.ai
 appldnld.apple.com
 apple-dns.net
 apple.com.edgekey.net
