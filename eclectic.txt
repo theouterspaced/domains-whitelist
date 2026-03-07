@@ -11,6 +11,7 @@ amp-api-updates.apps.apple.com
 anyi.kevinmarx.org
 api.invidious.io
 api.mapbox.com
+api.rosti.bin.re
 api.z.ai
 appldnld.apple.com
 apple-dns.net
@@ -25,6 +26,7 @@ bag.itunes.apple.com
 beta.apple.com
 bitbucket.org
 blackuniverse.eu
+blocklists.kitsapcreator.com
 brew.sh
 cas-bridge.xethub.hf.co
 cdn.cookielaw.org
@@ -81,8 +83,10 @@ inv.nadeko.net
 iplists.firehol.org
 itunes.apple.com
 itunes.apple.com.edgekey.net
+ivoid.iosprivacy.com
 jsfiddle.net
 kevinmarx.org
+kushari.org
 kutt.it
 malware-filter.gitlab.io
 maps.google.com
@@ -115,7 +119,6 @@ routerfeedback.asus.com
 s.youtube.com
 servers.opennic.org
 sffirecu.org
-shreshtait.com
 someonewhocares.org
 speedysub.itunes.apple.com
 spydisec.com
@@ -146,13 +149,17 @@ uptime.signal.org
 us.v29.distributed.net
 user-images.githubusercontent.com
 usom.gov.tr
+v.firebog.net
 vpn-api.proton.me
-wWw.gmktec.com
 warui.intaa.net
 web-experience.itunes.apple.com
 www.giphy.com
+www.gmktec.com
 www.netlify.app
+www.stephanpringle.com
+www.stopforumspam.com
 www.surveymonkey.com
 www.threatweb.com
 www.torproject.org
 www3.l.google.com
+z.com
