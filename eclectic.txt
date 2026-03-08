@@ -98,6 +98,7 @@ node.windy.com
 nw-dlcdnet.asus.com
 oisd.nl
 onedrive.live.com
+open.bigmodel.cn
 pd.itunes.apple.com
 phish.sinking.yachts
 phishcan.com
