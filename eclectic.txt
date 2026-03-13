@@ -10,6 +10,7 @@ aka.ms
 amp-api-edge.apps.apple.com
 amp-api-updates.apps.apple.com
 anyi.kevinmarx.org
+api.deepseek.com
 api.invidious.io
 api.mapbox.com
 api.rosti.bin.re
@@ -121,6 +122,7 @@ routerfeedback.asus.com
 s.youtube.com
 servers.opennic.org
 sffirecu.org
+skinnybob.info
 someonewhocares.org
 speedysub.itunes.apple.com
 spydisec.com
