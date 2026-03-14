@@ -94,6 +94,7 @@ malware-filter.gitlab.io
 maps.google.com
 media.githubusercontent.com
 mesu.apple.com
+methodictruth.com
 my.microsoftpersonalcontent.com
 netlify.app
 node.windy.com
