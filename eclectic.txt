@@ -40,6 +40,7 @@ chat.z.ai
 check.torporject.org
 codeberg.org
 content.sffirecu.org
+copr.fedorainfracloud.org
 d3ag4hukkh62yn.cloudfront.net
 dangerous.domains
 discourse.pi-hole.net
@@ -52,6 +53,7 @@ dns.pl
 dnsisbeautiful.com
 docs.google.com
 domains-monitor.com
+download.copr.fedorainfracloud.org
 drp.su
 earthquake.usgs.gov
 euro.v29.distributed.net
