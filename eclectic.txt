@@ -93,6 +93,7 @@ jsfiddle.net
 kevinmarx.org
 kushari.org
 kutt.it
+lacchabot.github.io
 malware-filter.gitlab.io
 maps.google.com
 media.githubusercontent.com
