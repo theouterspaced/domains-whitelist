@@ -45,6 +45,7 @@ dangerous.domains
 discourse.pi-hole.net
 displaycatalog.mp.microsoft.com
 disq.us
+dl.cenk.app
 dl.red.flag.domains
 dlcdnets.asus.com
 dns.pl
@@ -58,6 +59,7 @@ external-preview.redd.it
 fastly.jsdelivr.net
 feodotracker.abuse.ch
 filter.futa.gg
+firebase.googleapis.com
 firebaseinstallations.googleapis.com
 firebasestorage.googleapis.com
 firebog.net
@@ -80,6 +82,7 @@ hosts-tweedge-net.b-cdn.net
 hosts.tweedge.net
 hunt.io
 identity.doordash.com
+illumos.org
 imasdk.googleapis.com
 inv.nadeko.net
 iplists.firehol.org
@@ -95,6 +98,7 @@ maps.google.com
 media.githubusercontent.com
 mesu.apple.com
 methodictruth.com
+mirrors.fedoraproject.org
 my.microsoftpersonalcontent.com
 netlify.app
 node.windy.com
@@ -158,6 +162,7 @@ v.firebog.net
 vpn-api.proton.me
 warui.intaa.net
 web-experience.itunes.apple.com
+wildcard.fedoraproject.org
 www.giphy.com
 www.gmktec.com
 www.netlify.app
