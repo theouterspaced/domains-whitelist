@@ -15,7 +15,6 @@ anyi.kevinmarx.org
 api.deepseek.com
 api.invidious.io
 api.mapbox.com
-api.rosti.bin.re
 api.z.ai
 appldnld.apple.com
 apple-dns.net
@@ -37,8 +36,10 @@ cafe24.com
 cas-bridge.xethub.hf.co
 cdn.cookielaw.org
 cdn.jsdelivr.net
+cdn.sffirecu.org
 cert.pl
 cert.si
+chat.deepseek.com
 chat.signal.org
 chat.z.ai
 check.torporject.org
@@ -112,6 +113,7 @@ mesu.apple.com
 methodictruth.com
 mirrors.fedoraproject.org
 my.microsoftpersonalcontent.com
+mybluehost.me
 netlify.app
 node.windy.com
 nw-dlcdnet.asus.com
@@ -122,6 +124,7 @@ pd.itunes.apple.com
 phish.sinking.yachts
 phishcan.com
 phishing.army
+platform.deepseek.com
 play.google.com
 play.googleapis.com
 private-user-images.githubusercontent.com
