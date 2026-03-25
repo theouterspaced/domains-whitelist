@@ -3,12 +3,9 @@
 # github.com/theouterspaced/domain-whitelist
 ##
 0xerr0r.github.io
-a-ring.msedge.net
 ac88393aca5853df7.dualstack.awsglobalaccelerator.com
 accounts.youtube.com
-adjust.com
 aka.ms
-altervista.org
 amp-api-edge.apps.apple.com
 amp-api-updates.apps.apple.com
 anyi.kevinmarx.org
@@ -23,16 +20,13 @@ appleid.apple.com
 apps.apple.com
 archive.is
 archive.org
-archive.ph
 avatars.githubusercontent.com
 badmojr.github.io
 bag.itunes.apple.com
 beta.apple.com
 bitbucket.org
-blackuniverse.eu
 blocklists.kitsapcreator.com
 brew.sh
-cafe24.com
 cas-bridge.xethub.hf.co
 cdn.cookielaw.org
 cdn.jsdelivr.net
@@ -43,7 +37,7 @@ chat.deepseek.com
 chat.signal.org
 chat.z.ai
 check.torporject.org
-co.com
+cnnic.cn
 codeberg.org
 content.sffirecu.org
 copr.fedorainfracloud.org
@@ -51,7 +45,6 @@ d3ag4hukkh62yn.cloudfront.net
 dangerous.domains
 discourse.pi-hole.net
 displaycatalog.mp.microsoft.com
-disq.us
 dl.cenk.app
 dl.red.flag.domains
 dlcdnets.asus.com
@@ -61,7 +54,6 @@ docs.google.com
 domains-monitor.com
 download.copr.fedorainfracloud.org
 dropboxapi.com
-drp.su
 earthquake.usgs.gov
 euro.v29.distributed.net
 external-preview.redd.it
@@ -89,7 +81,6 @@ gsas.apple.com.akadns.net
 gsp-ssl.ls.apple.com
 hosts-tweedge-net.b-cdn.net
 hosts.tweedge.net
-hotjar.com
 hunt.io
 icanhazip.com
 identity.doordash.com
@@ -113,7 +104,6 @@ mesu.apple.com
 methodictruth.com
 mirrors.fedoraproject.org
 my.microsoftpersonalcontent.com
-mybluehost.me
 netlify.app
 node.windy.com
 nw-dlcdnet.asus.com
@@ -137,7 +127,6 @@ raw.githubusercontent.com
 red.flag.domains
 release-assets.githubusercontent.com
 res.cloudinary.com
-rosti.bin.re
 routerfeedback.asus.com
 s.youtube.com
 servers.opennic.org
@@ -182,6 +171,7 @@ vpn-api.proton.me
 warui.intaa.net
 web-experience.itunes.apple.com
 wildcard.fedoraproject.org
+www.cnnic.cn
 www.giphy.com
 www.gmktec.com
 www.netlify.app
