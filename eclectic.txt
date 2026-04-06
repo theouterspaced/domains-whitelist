@@ -63,6 +63,7 @@ chat.z.ai
 check.torporject.org
 cnnic.cn
 codeberg.org
+console.workbrew.com
 content.sffirecu.org
 copr.fedorainfracloud.org
 d3ag4hukkh62yn.cloudfront.net
@@ -80,6 +81,8 @@ domains-monitor.com
 download.copr.fedorainfracloud.org
 download.freebsd.org
 dropboxapi.com
+duck.ai
+duckduckgo.com
 earthquake.usgs.gov
 euro.v29.distributed.net
 example.com
@@ -132,6 +135,7 @@ kevinmarx.org
 kushari.org
 kutt.it
 lacchabot.github.io
+mail-api.proton.me
 malware-filter.gitlab.io
 maps.google.com
 media.githubusercontent.com
@@ -142,6 +146,7 @@ mirrors.almalinux.org
 mirrors.fedoraproject.org
 my.microsoftpersonalcontent.com
 myexternalip.com
+nadeko.net
 netlify.app
 node.windy.com
 ntppool1.time.nl
@@ -229,11 +234,11 @@ wildcard.fedoraproject.org
 www.cnnic.cn
 www.giphy.com
 www.gmktec.com
+www.kevinmarx.org
 www.netlify.app
 www.someonewhocares.com
 www.stephanpringle.com
 www.stopforumspam.com
-www.supertamagotchi.com
 www.surveymonkey.com
 www.threatweb.com
 www.torproject.org
