@@ -40,6 +40,8 @@ apple.com.edgekey.net
 appleid.apple.com
 apps.apple.com
 archive.is
+archive.li
+archive.ph
 archive.org
 auth.protonmail.ch
 avatars.githubusercontent.com
@@ -48,6 +50,7 @@ bag.itunes.apple.com
 beta.apple.com
 big.oisd.nl
 bitbucket.org
+blocklist.sefinek.net
 blocklists.kitsapcreator.com
 brew.sh
 cas-bridge.xethub.hf.co
@@ -184,6 +187,7 @@ repo.almalinux.org
 res.cloudinary.com
 routerfeedback.asus.com
 s.youtube.com
+sefinek.net
 servers.opennic.org
 sffirecu.org
 share.google
@@ -191,6 +195,7 @@ sharethis.com
 shorturl.at
 skinnybob.info
 small.oisd.nl
+sniffcat.com
 someonewhocares.org
 speedysub.itunes.apple.com
 spydisec.com
@@ -200,6 +205,7 @@ steamcloud-us-west1.storage.googleapis.com
 steamcommunity.com
 stephanpringle.com
 stopforumspam.com
+store.payproglobal.com
 supertamagotchi.com
 surveymonkey.com
 swcdn.apple.com
