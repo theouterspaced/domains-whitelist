@@ -192,6 +192,7 @@ servers.opennic.org
 sffirecu.org
 share.google
 sharethis.com
+shavian.info
 shorturl.at
 skinnybob.info
 small.oisd.nl
