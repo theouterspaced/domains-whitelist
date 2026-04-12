@@ -223,6 +223,7 @@ time.dfm.dk
 time.nist.gov
 tinyurl.com
 torproject.org
+tracking-protection.cdn.mozilla.net
 tuf-repo-cdn.sigstore.dev
 tweedge.net
 update.freebsd.org
