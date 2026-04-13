@@ -112,6 +112,7 @@ giphy.com
 github.com
 githubusercontent.com
 gitlab.com
+glotorrents.pw
 gnome.extensions.org
 gnome.org
 gs.apple.com
@@ -134,6 +135,7 @@ itunes.apple.com.edgekey.net
 ivoid.iosprivacy.com
 jsdelivr.net
 jsfiddle.net
+kadantiscam.netlify.app
 kevinmarx.org
 kushari.org
 kutt.it
@@ -164,6 +166,7 @@ pd.itunes.apple.com
 phish.sinking.yachts
 phishcan.com
 phishing.army
+phoronix.net
 pkg.freebsd.org
 platform.deepseek.com
 play.google.com
@@ -224,6 +227,7 @@ time.dfm.dk
 time.nist.gov
 tinyurl.com
 torproject.org
+tracker.bittor.pw
 tracking-protection.cdn.mozilla.net
 tuf-repo-cdn.sigstore.dev
 tweedge.net
@@ -244,6 +248,7 @@ www.giphy.com
 www.gmktec.com
 www.kevinmarx.org
 www.netlify.app
+www.phoronix.net
 www.someonewhocares.com
 www.stephanpringle.com
 www.stopforumspam.com
