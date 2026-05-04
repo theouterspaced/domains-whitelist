@@ -284,7 +284,7 @@ cdn-widget-assets.yotpo.com
 cdn.abcotvs.net
 cdn.adrise.tv
 cdn.apple-mapkit.com
-cdn.apple.com$important
+cdn.apple.com
 cdn.awsusor0.fds.api.mi-img.com
 cdn.birdzi.com
 cdn.boomtrain.com
@@ -1539,7 +1539,6 @@ store.slayer.net
 store.steampowered.com
 storecatalogrevocation.storequality.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
-storeedgefd.dsx.mp.microsoft.com\
 storefront.yotpo.com
 strat-public-global.joycityglobal.com
 strava.app.link
