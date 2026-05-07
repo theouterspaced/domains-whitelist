@@ -1,4 +1,4 @@
-# April 2026
+# May 2026
 # An eclectically personal list of web domains that should 'probably' always be allowed.
 # github.com/theouterspaced/domain-whitelist
 ##
@@ -116,6 +116,7 @@ gitlab.com
 glotorrents.pw
 gnome.extensions.org
 gnome.org
+grpc.chat.signal.org
 gs.apple.com
 gsas.apple.com.akadns.net
 gsp-ssl.ls.apple.com
@@ -237,6 +238,7 @@ tracking-protection.cdn.mozilla.net
 tuf-repo-cdn.sigstore.dev
 tweedge.net
 update.freebsd.org
+update1.freebsd.org
 updates.cdn-apple.com
 updates.g.aaplimg.com
 uptime.signal.org
