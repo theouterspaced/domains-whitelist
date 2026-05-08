@@ -45,6 +45,7 @@ archive.ph
 archive.org
 auth.protonmail.ch
 avatars.githubusercontent.com
+awsglobalaccelerator.com
 badmojr.github.io
 bag.itunes.apple.com
 beta.apple.com
@@ -84,6 +85,7 @@ domains-monitor.com
 download.copr.fedorainfracloud.org
 download.freebsd.org
 dropboxapi.com
+dualstack.awsglobalaccelerator.com
 duck.ai
 duckduckgo.com
 earthquake.usgs.gov
