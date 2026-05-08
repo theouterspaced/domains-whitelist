@@ -21,6 +21,7 @@
 3.fedora.pool.ntp.org
 3.freebsd.pool.ntp.org
 3.pool.ntp.org
+a53a9a7f069fd1b6c.dualstack.awsglobalaccelerator.com
 ac88393aca5853df7.dualstack.awsglobalaccelerator.com
 account.proton.me
 accounts.youtube.com
