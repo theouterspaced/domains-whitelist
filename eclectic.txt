@@ -149,6 +149,7 @@ local.oisd.nl
 mail-api.proton.me
 malware-filter.gitlab.io
 maps.google.com
+mate-desktop.org
 media.githubusercontent.com
 mediafire.com
 mesu.apple.com
@@ -168,6 +169,7 @@ oisd.nl
 openclaw.ai
 onedrive.live.com
 open.bigmodel.cn
+osnews.com
 pd.itunes.apple.com
 phish.sinking.yachts
 phishcan.com
@@ -205,6 +207,7 @@ share.google
 sharethis.com
 shavian.info
 shorturl.at
+siglum.org
 skinnybob.info
 small.oisd.nl
 sniffcat.com
@@ -226,6 +229,7 @@ swcdnlocator.apple.com
 swdownload.apple.com
 swquery.apple.com
 swscan.apple.com
+tailscale.com
 telegra.ph
 thepiratebay.org
 threatfox.abuse.ch
