@@ -1,4 +1,4 @@
-# May 2026
+# June 2026
 # An eclectically personal list of web domains that should 'probably' always be allowed.
 # github.com/theouterspaced/domain-whitelist
 ##
@@ -55,6 +55,7 @@ bitbucket.org
 blocklist.sefinek.net
 blocklists.kitsapcreator.com
 brew.sh
+captive.apple.com
 cas-bridge.xethub.hf.co
 cdn.cookielaw.org
 cdn.jsdelivr.net
