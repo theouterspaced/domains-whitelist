@@ -160,6 +160,7 @@ mirrors.fedoraproject.org
 my.microsoftpersonalcontent.com
 myexternalip.com
 nadeko.net
+nanobot.wiki
 netlify.app
 node.windy.com
 ntppool1.time.nl
