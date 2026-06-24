@@ -21,11 +21,13 @@
 3.fedora.pool.ntp.org
 3.freebsd.pool.ntp.org
 3.pool.ntp.org
+4cum.org
 a53a9a7f069fd1b6c.dualstack.awsglobalaccelerator.com
 ac88393aca5853df7.dualstack.awsglobalaccelerator.com
 account.proton.me
 accounts.youtube.com
 aka.ms
+almatamagotchi.com
 amp-api-edge.apps.apple.com
 amp-api-updates.apps.apple.com
 anudeep.me
@@ -47,6 +49,7 @@ archive.org
 auth.protonmail.ch
 avatars.githubusercontent.com
 awsglobalaccelerator.com
+ayni.kevinmarx.org
 badmojr.github.io
 bag.itunes.apple.com
 beta.apple.com
@@ -224,7 +227,6 @@ stephanpringle.com
 stopforumspam.com
 storage.rosti.dev
 store.payproglobal.com
-supertamagotchi.com
 surveymonkey.com
 swcdn.apple.com
 swcdnlocator.apple.com
@@ -259,6 +261,7 @@ vpn-api.proton.me
 warui.intaa.net
 web-experience.itunes.apple.com
 wildcard.fedoraproject.org
+www.almatamagotchi.com
 www.cnnic.cn
 www.giphy.com
 www.gmktec.com
