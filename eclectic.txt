@@ -1,4 +1,4 @@
-# June 2026
+# July 2026
 # An eclectically personal list of web domains that should 'probably' always be allowed.
 # github.com/theouterspaced/domain-whitelist
 ##
@@ -30,7 +30,6 @@ aka.ms
 almatamagotchi.com
 amp-api-edge.apps.apple.com
 amp-api-updates.apps.apple.com
-anudeep.me
 anyi.kevinmarx.org
 api.deepseek.com
 api.invidious.io
@@ -105,7 +104,6 @@ filter.futa.gg
 firebase.googleapis.com
 firebaseinstallations.googleapis.com
 firebasestorage.googleapis.com
-firebog.net
 flathub.org
 formulae.brew.sh
 fpinit.itunes.apple.com
@@ -178,7 +176,6 @@ osnews.com
 pd.itunes.apple.com
 phish.sinking.yachts
 phishcan.com
-phishing.army
 phoronix.net
 pkg.freebsd.org
 platform.deepseek.com

@@ -1,4 +1,4 @@
-# May 2026
+# July 2026
 # Sources:
 # https://raw.githubusercontent.com/davidonzo/Threat-Intel-Domain-WL/main/OSINT.DigitalSide-Threat-Intel-Domain-WL.txt
 # https://raw.githubusercontent.com/Ellis-808/PiHole-WhitelistURLs/master/urls.txt
@@ -11,7 +11,6 @@
 # https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/core-allowlist.txt
 # https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist/allowlist.txt
 # https://raw.githubusercontent.com/ultimate-pihole-list/list/main/whitelist/whitelist.txt
-# https://raw.githubusercontent.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/main/whitelists/core-domain-whitelist-optimized.txt
 # https://gitlab.com/DasMoorhuhn/pihole/-/raw/main/lists/steam_allowed_domains.txt
 # https://gitlab.com/maarsellow/dns-whitelist/-/raw/main/whitelist.txt
 # https://gitlab.com/phreekbird_public/freetvplatforms-pihole-whitelist/-/raw/main/hosts
@@ -19,13 +18,147 @@
 # https://local.oisd.nl/extract/commonly_whitelisted.php
 ##
 0.client-channel.google.com
+0.content-loader.com
+0.fb.content-loader.com
+0.fb.html-load.com
+0.fb.stg.content-loader.com
+0.fb.stg.html-load.com
+0.html-load.com
+0.s.html-load.com
+0.stg.content-loader.com
+0.stg.html-load.com
+0.v.content-loader.com
+0.v.html-load.com
+0.v.s.html-load.com
+0.v.stg.html-load.com
+0.video-loads.com
+1.content-loader.com
+1.fb.content-loader.com
+1.fb.html-load.com
+1.fb.stg.content-loader.com
+1.fb.stg.html-load.com
+1.html-load.com
+1.s.html-load.com
+1.stg.content-loader.com
+1.stg.html-load.com
+1.v.content-loader.com
+1.v.html-load.com
+1.v.s.html-load.com
+1.v.stg.html-load.com
+1.video-loads.com
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 1drv.com
 1storecatalogrevocation.storequality.microsoft.com
 2.android.pool.ntp.org
+2.content-loader.com
+2.fb.content-loader.com
+2.fb.stg.content-loader.com
+2.fb.stg.html-load.com
+2.html-load.com
+2.s.html-load.com
+2.stg.content-loader.com
+2.stg.html-load.com
+2.v.content-loader.com
+2.v.html-load.com
+2.v.s.html-load.com
+2.v.stg.html-load.com
+2.video-loads.com
+3.content-loader.com
+3.fb.content-loader.com
+3.fb.stg.content-loader.com
+3.fb.stg.html-load.com
+3.html-load.com
+3.s.html-load.com
+3.stg.content-loader.com
+3.stg.html-load.com
+3.v.content-loader.com
+3.v.html-load.com
+3.v.s.html-load.com
+3.v.stg.html-load.com
+3.video-loads.com
 3vx2e73s43.execute-api.us-east-1.amazonaws.com
+4.content-loader.com
+4.fb.content-loader.com
+4.fb.stg.content-loader.com
+4.fb.stg.html-load.com
+4.html-load.com
+4.s.html-load.com
+4.stg.content-loader.com
+4.stg.html-load.com
+4.v.content-loader.com
+4.v.html-load.com
+4.v.s.html-load.com
+4.v.stg.html-load.com
+4.video-loads.com
+5.content-loader.com
+5.fb.content-loader.com
+5.fb.stg.content-loader.com
+5.fb.stg.html-load.com
+5.html-load.com
+5.s.html-load.com
+5.stg.content-loader.com
+5.stg.html-load.com
+5.v.content-loader.com
+5.v.html-load.com
+5.v.s.html-load.com
+5.v.stg.html-load.com
+5.video-loads.com
+6.content-loader.com
+6.fb.content-loader.com
+6.fb.stg.content-loader.com
+6.fb.stg.html-load.com
+6.html-load.com
+6.s.html-load.com
+6.stg.content-loader.com
+6.stg.html-load.com
+6.v.content-loader.com
+6.v.html-load.com
+6.v.s.html-load.com
+6.v.stg.html-load.com
+6.video-loads.com
+7.content-loader.com
+7.fb.content-loader.com
+7.fb.stg.content-loader.com
+7.fb.stg.html-load.com
+7.html-load.com
+7.s.html-load.com
+7.stg.content-loader.com
+7.stg.html-load.com
+7.v.content-loader.com
+7.v.html-load.com
+7.v.s.html-load.com
+7.v.stg.html-load.com
+7.video-loads.com
 79423.analytics.edgekey.net
 7eer.net
+8.content-loader.com
+8.fb.content-loader.com
+8.fb.stg.content-loader.com
+8.fb.stg.html-load.com
+8.html-load.com
+8.s.html-load.com
+8.stg.content-loader.com
+8.stg.html-load.com
+8.v.content-loader.com
+8.v.html-load.com
+8.v.s.html-load.com
+8.v.stg.html-load.com
+8.video-loads.com
+9.content-loader.com
+9.fb.content-loader.com
+9.fb.stg.content-loader.com
+9.fb.stg.html-load.com
+9.html-load.com
+9.s.html-load.com
+9.stg.content-loader.com
+9.stg.html-load.com
+9.v.content-loader.com
+9.v.html-load.com
+9.v.s.html-load.com
+9.v.stg.html-load.com
+9.video-loads.com
+_sip._tcp.ent.east.mymtm.us
+_xmpp-client._tcp.im.mymtm.us
 a-fds.youborafds01.com
 a-msedge.net
 a1014.g.akamai.net
@@ -49,6 +182,8 @@ adl.windows.com
 admin.cloud.microsoft
 ads-a-darwin.hulustream.com
 ads-fa-darwin.hulustream.com
+adshield-fallback-dev-wskxz.b-cdn.net
+adshield-fallback-staging-yp6cs.b-cdn.net
 adwcleaner.toolslib.net
 ae01.alicdn.com
 ahrefs.com
@@ -397,6 +532,7 @@ consent.t-online.de
 consumerapps.mcafee.com
 contactsui-pa.googleapis.com
 content-fox.uplynk.com
+content-loader.com
 content-prod.iot.irobotapi.com
 contentproxy.signal.org
 continuum.dds.microsoft.com
@@ -411,6 +547,7 @@ crls.pki.goog
 cryptauthenrollment.googleapis.com
 cse.google.com
 csm.cxpublic.com
+css-load.com
 ct.pinterest.com
 ctilesgcs-am.waze.com
 ctldl.windowsupdate.com
@@ -815,7 +952,11 @@ familylink.google.com
 fantia.jp
 fast.wistia.com
 fastpic.ru
+fb.content-loader.com
+fb.html-load.com
 fb.me
+fb.stg.content-loader.com
+fb.stg.html-load.com
 fbcdn-creative-a.akamaihd.net
 fbcdn.net
 fe2.ws.microsoft.com
@@ -934,6 +1075,7 @@ gsys1.joycityglobal.com
 guc3-spclient.spotify.com
 guce.advertising.com
 gue1-spclient.spotify.com
+gumtree.com
 h-sdk.online-metrix.net
 halostats.svc.halowaypoint.com
 haveibeenpwned.com
@@ -946,6 +1088,7 @@ hosts-file.net
 hostsfile.mine.nu
 hostsfile.org
 ht4t7b8mjz.data.adobedc.net
+html-load.com
 http-a-darwin.hulustream.com
 http-fa-darwin.hulustream.com
 http-va-darwin.hulustream.com
@@ -1240,6 +1383,7 @@ ping-app1.idrive.com
 ping-edge.smartscreen.microsoft.com
 ping.avast.com
 ping.ubnt.com
+ping.ui.com
 ping1.tnt-ea.com
 pings.conviva.com
 pinterest.com
@@ -1340,6 +1484,7 @@ s-passets-cache-ak0.pinimg.com
 s.adrise.tv
 s.click.aliexpress.com
 s.gateway.messenger.live.com
+s.html-load.com
 s.marketwatch.com
 s.mzstatic.com
 s.pinimg.com
@@ -1530,6 +1675,8 @@ steamcloud-eu-ams.storage.googleapis.com
 steamcloudams2.blob.core.windows.net
 steamcommunity-a.akamaihd.net
 steamcommunity.com
+stg.content-loader.com
+stg.html-load.com
 storage.googleapis.com
 storage.live.com
 storage.signal.org
@@ -1649,6 +1796,7 @@ unagi.amazon.com
 unauth1.prod.iot.irobotapi.com
 unauth2.prod.iot.irobotapi.com
 unauth3.prod.iot.irobotapi.com
+unifi-kms.svc.ui.com
 unitedstates.smartscreen-prod.microsoft.com
 unpkg.com
 update.biv.sony.tv
@@ -1672,8 +1820,11 @@ user.auth.xboxlive.com
 userlocation.googleapis.com
 userpresence.xboxlive.com
 v.firebog.net
+v.html-load.com
 v.pinimg.com
+v.s.html-load.com
 v.shopify.com
+v.stg.html-load.com
 v.w-x.co
 v.whatsapp.net
 v10.events.data.microsoft.com
@@ -1683,6 +1834,7 @@ v20.vortex-win.data.microsoft.com
 vendorlist.dmcdn.net
 veritrans.co.jp
 video-fa.scdn.co
+video-loads.com
 video-stats.l.google.com
 video.enter-pubg-new-state.com
 video.fastly.steamstatic.com
