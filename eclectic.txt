@@ -81,7 +81,6 @@ displaycatalog.mp.microsoft.com
 dl.cenk.app
 dl.flathub.org
 dl.red.flag.domains
-dlcdnets.asus.com
 dns.pl
 dnsisbeautiful.com
 docs.google.com
@@ -167,7 +166,6 @@ node.windy.com
 ntppool1.time.nl
 ntppool2.time.nl
 nts.netnod.se
-nw-dlcdnet.asus.com
 oisd.nl
 openclaw.ai
 onedrive.live.com
@@ -199,7 +197,6 @@ release-assets.githubusercontent.com
 repo.almalinux.org
 res.cloudinary.com
 rosti.dev
-routerfeedback.asus.com
 s.youtube.com
 sefinek.net
 seguranca-informatica.pt
