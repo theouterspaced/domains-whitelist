@@ -68,6 +68,7 @@ cert.si
 chat.deepseek.com
 chat.signal.org
 chat.z.ai
+chat-deep.ai
 check.torporject.org
 cnnic.cn
 codeberg.org
@@ -124,6 +125,7 @@ grpc.chat.signal.org
 gs.apple.com
 gsas.apple.com.akadns.net
 gsp-ssl.ls.apple.com
+hole.cert.pl
 hosts-tweedge-net.b-cdn.net
 hosts.anudeep.me
 hosts.tweedge.net
@@ -146,6 +148,7 @@ kevinmarx.org
 kushari.org
 kutt.it
 lacchabot.github.io
+live.almatamagotchi.com
 local.oisd.nl
 mail-api.proton.me
 malware-filter.gitlab.io
@@ -249,13 +252,10 @@ updates.g.aaplimg.com
 uptime.signal.org
 us.v29.distributed.net
 user-images.githubusercontent.com
-usom.gov.tr
-v.firebog.net
 vpn-api.proton.me
 warui.intaa.net
 web-experience.itunes.apple.com
 wildcard.fedoraproject.org
-www.almatamagotchi.com
 www.cnnic.cn
 www.giphy.com
 www.gmktec.com
@@ -269,7 +269,6 @@ www.stopforumspam.com
 www.surveymonkey.com
 www.threatweb.com
 www.torproject.org
-www.usom.gov.tr
 www3.l.google.com
 xfce.org
 z.com
