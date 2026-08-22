@@ -233,6 +233,7 @@ store.payproglobal.com
 surveymonkey.com
 swcdn.apple.com
 swcdnlocator.apple.com
+swdist.apple.com
 swdownload.apple.com
 swquery.apple.com
 swscan.apple.com
