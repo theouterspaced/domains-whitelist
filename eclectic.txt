@@ -153,6 +153,7 @@ kutt.it
 lacchabot.github.io
 local.oisd.nl
 mail-api.proton.me
+mail.proton.me
 malware-filter.gitlab.io
 maps.almatamagotchi.com
 maps.google.com
