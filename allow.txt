@@ -37,6 +37,7 @@ canva.com
 cdn.jsdelivr.net
 cdnjs.cloudflare.com
 chrome.google.com
+claude.ai
 cloud.google.com
 cloudflare.com
 cnbc.com

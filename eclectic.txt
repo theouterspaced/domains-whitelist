@@ -101,7 +101,6 @@ example.com
 example.org
 external-preview.redd.it
 fastly.jsdelivr.net
-feed.seguranca-informatica.pt
 feodotracker.abuse.ch
 filter.futa.gg
 firebase.googleapis.com
@@ -208,7 +207,6 @@ res.cloudinary.com
 rosti.dev
 s.youtube.com
 sefinek.net
-seguranca-informatica.pt
 servers.opennic.org
 sffirecu.org
 share.google
@@ -242,7 +240,6 @@ tailscale.com
 telegra.ph
 thepiratebay.org
 threatfox.abuse.ch
-threatweb.com
 time.cifelli.xyz
 time.cloudflare.com
 time.dfm.dk
@@ -271,12 +268,12 @@ www.gmktec.com
 www.kevinmarx.org
 www.netlify.app
 www.phoronix.net
+www.sekuripy.hr
 www.shavian.info
 www.someonewhocares.com
 www.stephanpringle.com
 www.stopforumspam.com
 www.surveymonkey.com
-www.threatweb.com
 www.torproject.org
 www3.l.google.com
 xfce.org
