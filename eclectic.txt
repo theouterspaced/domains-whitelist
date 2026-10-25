@@ -1,4 +1,4 @@
-# July 2026
+# October 2026
 # An eclectically personal list of web domains that should 'probably' always be allowed.
 # github.com/theouterspaced/domain-whitelist
 ##
@@ -68,7 +68,6 @@ cdn.sffirecu.org
 cenk.app
 cert.pl
 cert.si
-chat-deep.ai
 chat.deepseek.com
 chat.signal.org
 chat.z.ai
@@ -78,6 +77,7 @@ codeberg.org
 console.workbrew.com
 content.sffirecu.org
 copr.fedorainfracloud.org
+craigai.com
 d3ag4hukkh62yn.cloudfront.net
 dangerous.domains
 discourse.pi-hole.net
@@ -101,7 +101,6 @@ example.com
 example.org
 external-preview.redd.it
 fastly.jsdelivr.net
-feodotracker.abuse.ch
 filter.futa.gg
 firebase.googleapis.com
 firebaseinstallations.googleapis.com
@@ -227,7 +226,6 @@ steamcloud-us-west1.storage.googleapis.com
 steamcommunity.com
 stephanpringle.com
 stopforumspam.com
-storage.rosti.dev
 store.payproglobal.com
 surveymonkey.com
 swcdn.apple.com
@@ -239,7 +237,6 @@ swscan.apple.com
 tailscale.com
 telegra.ph
 thepiratebay.org
-threatfox.abuse.ch
 time.cifelli.xyz
 time.cloudflare.com
 time.dfm.dk
@@ -248,6 +245,7 @@ tinyurl.com
 torproject.org
 tracker.bittor.pw
 tracking-protection.cdn.mozilla.net
+tryslow.life
 tuf-repo-cdn.sigstore.dev
 tweedge.net
 update.freebsd.org

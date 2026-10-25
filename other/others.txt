@@ -1,4 +1,4 @@
-# July 2026
+# October 2026
 # Sources:
 # https://raw.githubusercontent.com/davidonzo/Threat-Intel-Domain-WL/main/OSINT.DigitalSide-Threat-Intel-Domain-WL.txt
 # https://raw.githubusercontent.com/Ellis-808/PiHole-WhitelistURLs/master/urls.txt
@@ -1048,7 +1048,6 @@ go.microsoft.com
 go.redirectingat.com
 go.skimresources.com
 goo.gl
-google-analytics.com
 google.com
 googleapis.com
 googleapis.l.google.com
@@ -1644,7 +1643,6 @@ sport.onet.pl
 sports.latimes.com
 sptrack.trello.com
 sse-ws-p189.apple.com
-ssl.google-analytics.com
 ssl.p.jwpcdn.com
 ssl0.ovh.net
 sslimghost.device.screenmedia.net
@@ -1916,7 +1914,6 @@ www.githubusercontent.com
 www.gitlab.com
 www.gitlab.io
 www.gleam.io
-www.google-analytics.com
 www.google.com
 www.googleapis.com
 www.googletagmanager.com
