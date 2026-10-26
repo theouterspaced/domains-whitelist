@@ -179,6 +179,7 @@ open.bigmodel.cn
 openclaw.ai
 osnews.com
 pd.itunes.apple.com
+pgl.yoyo.org
 phish.sinking.yachts
 phishcan.com
 phoronix.net
@@ -248,6 +249,7 @@ tracking-protection.cdn.mozilla.net
 tryslow.life
 tuf-repo-cdn.sigstore.dev
 tweedge.net
+tweetfeed.live
 update.freebsd.org
 update1.freebsd.org
 updates.cdn-apple.com
@@ -255,6 +257,7 @@ updates.g.aaplimg.com
 uptime.signal.org
 us.v29.distributed.net
 user-images.githubusercontent.com
+usomfeeds.dalnet.tr
 vpn-api.proton.me
 warui.intaa.net
 web-experience.itunes.apple.com
@@ -275,4 +278,5 @@ www.surveymonkey.com
 www.torproject.org
 www3.l.google.com
 xfce.org
+yoyo.org
 z.com
