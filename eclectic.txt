@@ -72,6 +72,7 @@ chat.deepseek.com
 chat.signal.org
 chat.z.ai
 check.torporject.org
+cloudfront.net
 cnnic.cn
 codeberg.org
 console.workbrew.com
