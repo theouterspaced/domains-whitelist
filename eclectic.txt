@@ -1,4 +1,4 @@
-# October 2026
+# November 2026
 # An eclectically personal list of web domains that should 'probably' always be allowed.
 # github.com/theouterspaced/domain-whitelist
 ##
@@ -58,6 +58,7 @@ beta.apple.com
 big.oisd.nl
 bitbucket.org
 blocklist.sefinek.net
+blocklist.site
 blocklists.kitsapcreator.com
 brew.sh
 bsd.almatamagotchi.com
@@ -206,6 +207,7 @@ red.flag.domains
 release-assets.githubusercontent.com
 repo.almalinux.org
 res.cloudinary.com
+reverseengineeranything.org
 rosti.dev
 s.youtube.com
 sefinek.net
