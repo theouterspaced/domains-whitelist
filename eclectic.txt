@@ -58,7 +58,6 @@ beta.apple.com
 big.oisd.nl
 bitbucket.org
 blocklist.sefinek.net
-blocklist.site
 blocklists.kitsapcreator.com
 brew.sh
 bsd.almatamagotchi.com
