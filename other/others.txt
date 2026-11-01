@@ -11,6 +11,7 @@
 # https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/core-allowlist.txt
 # https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist/allowlist.txt
 # https://raw.githubusercontent.com/ultimate-pihole-list/list/main/whitelist/whitelist.txt
+# https://github.com/AdAway/AdAway/wiki/ProblematicApps
 # https://gitlab.com/DasMoorhuhn/pihole/-/raw/main/lists/steam_allowed_domains.txt
 # https://gitlab.com/maarsellow/dns-whitelist/-/raw/main/whitelist.txt
 # https://gitlab.com/phreekbird_public/freetvplatforms-pihole-whitelist/-/raw/main/hosts
@@ -165,6 +166,7 @@ a1014.g.akamai.net
 a2uowfjvhio0fa-ats.iot.us-east-1.amazonaws.com
 a2uowfjvhio0fa.iot.us-east-1.amazonaws.com
 aadcdn.msauth.net
+aan.amazon.com
 aax-us-east-retail-direct.amazon.com
 aax-us-iad.amazon.com
 account.activedirectory.windowsazure.com
@@ -176,6 +178,8 @@ acdn.adnxs.com
 activate.adobe.com
 activation-v2.sls.microsoft.com
 activity.windows.com
+ad.71i.de
+ad.auditude.com
 adaway.org
 adf.ly
 adl.windows.com
@@ -226,6 +230,7 @@ android.clients.google.com
 android.com
 android.googleapis.com
 androidplatformbackuprestore-pa.googleapis.com
+androidsdk.ads
 androidtv.app.hulu.com
 androidtvlauncherxfe-pa.googleapis.com
 anonym.to
@@ -251,11 +256,13 @@ api.ipify.org
 api.meta.ndmdhs.com
 api.narrativ.com
 api.pinterest.com
+api.radar.io
 api.rlje.net
 api.rollbar.com
 api.samsungknowledge.com
 api.steampowered.com
 api.twitter.com
+api.us-east-1.aiv-delivery.net
 api.vungle.com
 api.zave.it
 api2.branch.io
@@ -340,8 +347,11 @@ backblaze.com
 backblazeb2.com
 bag.itunes.apple.com
 bam-sdk-configs.bamgrid.com
+bam.nr-data.net
+bea4.v.fwmrm.net
 beacon.shazam.com
 beta.slayer.net
+bi.medscape.com
 bialystok.tvp.pl
 bigzipfiles.facebook.com
 bit.ly
@@ -497,10 +507,12 @@ cloud.umami.is
 cloudconnect2.norton.com
 cloudconsole-pa.clients6.google.com
 clouddrive.com
+cloudfront.net
 cloudfront.tubi.video
 cloudfront.xp-assets.aiv-cdn.net
 cloudsync-prod.s3.amazonaws.com
 cloudusersettings-pa.clients6.google.com
+cm.everesttech.net
 cmp1-ams1.steamserver.net
 cmp2-ams1.steamserver.net
 cmp2-fra1.steamserver.net
@@ -525,6 +537,7 @@ configuration.apple.com
 configuration.apple.com.akadns.net
 connect.facebook.com
 connect.facebook.net
+connect.tapjoy.com
 connectivity-check.ubuntu.com
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
@@ -563,6 +576,7 @@ d83eunklitikj.cloudfront.net
 dashboard.plex.tv
 data-edge.smartscreen.microsoft.com
 data.amazon.com
+data.flurry.com
 dataplicity.com
 db3wns2011111.wns.windows.com
 db5.wns.windows.com
@@ -879,6 +893,7 @@ download.windowsupdate.com
 downloads.docker.com
 downloads.plex.tv
 dpbolvw.net
+dpm.demdex.net
 dpservice.fidelity.com
 drift.com
 driftt.com
@@ -1018,6 +1033,7 @@ geo-prod.do.dsp.mp.microsoft.com
 geo.cardinalcommerce.com
 geo.craigslist.org
 geo.elgato.com
+geo.ngtv.io
 geo0.ggpht.com
 geo1.presslabs.net
 geo3.ggpht.com
@@ -1027,6 +1043,7 @@ geoip.cdn.arkadiumhosted.com
 geoip.cudasvc.com
 geolocation-db.com
 geolocation.garmin.com
+geolocation.onetrust.com
 get.microsoft.com
 gfwsl.geforce.com
 gha.ebay.com
@@ -1076,6 +1093,7 @@ guce.advertising.com
 gue1-spclient.spotify.com
 gumtree.com
 h-sdk.online-metrix.net
+hackerbot.net
 halostats.svc.halowaypoint.com
 haveibeenpwned.com
 help.apple.com
@@ -1178,6 +1196,7 @@ laceylou.lol
 lancache.steamcontent.com
 lastfm-img2.akamaized.net
 latimesblogs.latimes.com
+launches.appsflyer.com
 lb-rdv-siege-xplay-multiaz-prod.ubisoft.com
 lddy.no
 lens-pa.googleapis.com
@@ -1285,6 +1304,7 @@ mtalk.google.com
 my-win.avast.com
 my.microsoftpersonalcontent.com
 my.plexapp.com
+mydas.mobi
 n-device-api.tplinkcloud.com
 n-use1-dw.tplinkcloud.com
 n-use1-wap.i.tplinkcloud.com
@@ -1311,6 +1331,7 @@ ns1.dropbox.com
 ns2.dropbox.com
 nsf-2.dropbox.com
 nudity.testcategory.com
+o.aolcdn.com
 o.pki.goog
 o1.email.plex.tv
 o2.sg0.plex.tv
@@ -1437,6 +1458,7 @@ push.apple.com
 pyguard.top
 qoe-1.yottaa.net
 quantcast.mgr.consensu.org
+quantummetric.com
 ragfair.escapefromtarkov.com
 rapi.ifood.tv
 rapid-cdn.yottaa.com
@@ -1564,6 +1586,7 @@ sa.bbc.com
 sa.symcb.com
 safelinks.protection.outlook.com
 saupdates.dell.com
+sb.scorecardresearch.com
 scone-pa.clients6.google.com
 scontent-atl3-1.xx.fbcdn.net
 scontent-iad3-1.cdninstagram.com
@@ -1629,6 +1652,7 @@ sls.update.microsoft.com.akadns.net
 slscr.update.microsoft.com
 smartscreen-sn3p.smartscreen.microsoft.com
 smartscreen.microsoft.com
+smetrics.carfax.com
 smtp.mail.yahoo.com
 snap.licdn.com
 social.cdn.ubisoft.com
@@ -1638,6 +1662,7 @@ sp-ad-fa.audio.tidal.com
 sp.auth.adobe.com
 sp.pluto.tv
 spclient.wg.spotify.com
+split.io
 spoppe-b.azureedge.net
 sport.onet.pl
 sports.latimes.com
@@ -1646,6 +1671,8 @@ sse-ws-p189.apple.com
 ssl.p.jwpcdn.com
 ssl0.ovh.net
 sslimghost.device.screenmedia.net
+sstats.adobe.com
+sstats.adultswim.com
 st.vp1.uk
 staging.plex.tv
 star-mini.c10r.facebook.com
@@ -1666,6 +1693,7 @@ statics-marketingsites-wcus-ms-com.akamaized.net
 statics-uhf-wus.akamaized.net
 statics.teams.cdn.office.net
 stats.streamelements.com
+stats.wordpress.com
 status.plex.tv
 steam-chat.com
 steamcloud-dub.s3.dualstack.eu-west-1.amazonaws.com
@@ -1968,3 +1996,4 @@ zipshare.com
 zna7usvzk4.execute-api.us-east-1.amazonaws.com
 zone.msn.com
 ztd.dds.microsoft.com
+
