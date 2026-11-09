@@ -149,7 +149,6 @@ jsfiddle.net
 kadantiscam.netlify.app
 kevinmarx.org
 kushari.org
-kutt.it
 lacchabot.github.io
 local.oisd.nl
 mail-api.proton.me
