@@ -206,7 +206,6 @@ release-assets.githubusercontent.com
 repo.almalinux.org
 res.cloudinary.com
 reverseengineeranything.org
-rosti.dev
 s.youtube.com
 sefinek.net
 servers.opennic.org
@@ -259,7 +258,6 @@ updates.g.aaplimg.com
 uptime.signal.org
 us.v29.distributed.net
 user-images.githubusercontent.com
-usomfeeds.dalnet.tr
 vpn-api.proton.me
 warui.intaa.net
 web-experience.itunes.apple.com
