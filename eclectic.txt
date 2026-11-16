@@ -138,6 +138,7 @@ identity.doordash.com
 illumos.org
 imasdk.googleapis.com
 inv.nadeko.net
+iocwatch.com
 iplists.firehol.org
 is.gd
 isos.secureblue.dev
@@ -161,6 +162,7 @@ media.githubusercontent.com
 mediafire.com
 mesu.apple.com
 methodictruth.com
+mhearsh.github.io
 mirrors.almalinux.org
 mirrors.fedoraproject.org
 music.almatamagotchi.com
@@ -215,6 +217,7 @@ sharethis.com
 shavian.info
 shorturl.at
 show.almatamagotchi.com
+siberkapan.org
 siglum.org
 skinnybob.info
 small.oisd.nl
@@ -239,6 +242,7 @@ swscan.apple.com
 tailscale.com
 telegra.ph
 thepiratebay.org
+threatcluster.io
 time.cifelli.xyz
 time.cloudflare.com
 time.dfm.dk
